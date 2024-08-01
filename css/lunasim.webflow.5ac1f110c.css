@@ -5723,8 +5723,8 @@ blockquote {
 }
 
 .brand-logo-rounded-nav {
-  height: 22px;
-  font-size: 50px;
+  height: 100px;
+  font-size: 70px;
 }
 
 .navbar-footer-main-link-holder {
@@ -11169,8 +11169,8 @@ blockquote {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  height: 75px;
-  margin-top: 20px;
+  height: 120px;
+  margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
   display: flex;
